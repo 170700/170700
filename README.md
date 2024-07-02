@@ -2,7 +2,7 @@
 
 Meu nome é Lívia Martins
 
-- Estou estudando na ALuna
+- Estou estudando na [ALuraa](https://www.alura.com.br)
 - EStou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
@@ -10,7 +10,7 @@ Meu nome é Lívia Martins
 
 0001105815055sp@al.educacao.sp.gov.br
 
-@llivia
+@lliviamartin.s
 
 
-![](https://tenor.com/pt-BR/view/rosy00-gif-807982188401805256)
+![](https://media1.tenor.com/m/CzaHhPyIR8gAAAAC/rosy00.gif)
