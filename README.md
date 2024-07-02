@@ -2,7 +2,7 @@
 
 Meu nome é Lívia Martins
 
-- Estou estudando na [ALuraa](https://www.alura.com.br)
+- Estou estudando na [ALura](https://www.alura.com.br)
 - EStou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
